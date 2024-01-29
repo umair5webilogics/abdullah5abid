@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Abdullah Abid 👋 </h1>
+<h1 align="center">Hey there! I'm Umair Hafeez 👋 </h1>
 
 ### 💫About Me:
 
@@ -10,9 +10,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdullah5abid&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdullah5abid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah5abid&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=umair5webilogics&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=umair5webilogics&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umair5webilogics&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # 💻 Tech Stack:
 
@@ -60,6 +60,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdullah5abid&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=umair5webilogics&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
