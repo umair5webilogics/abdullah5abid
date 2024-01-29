@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Umair Hafeez 👋 </h1>
+<h1 align="center">Hey there! I'm Abdullah Abid 👋 </h1>
 
 ### 💫About Me:
 
